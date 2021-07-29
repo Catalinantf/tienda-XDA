@@ -1,0 +1,21 @@
+/* Buttons Component
+   ========================================================================== */
+.button {
+  padding: .5rem 1rem;
+  border-radius: 4px;
+  font-family: $raleway;
+  font-size: $medium;
+  font-weight: $bold;
+}
+
+.button_primary {
+  border: 1px solid $smoky-black;
+  color: $smoky-black;
+  background-color: transparent;
+}
+
+.button_secondary {
+  border: 1px solid granite-gray;
+  color: $smoky-black;
+  background-color: transparent;
+}

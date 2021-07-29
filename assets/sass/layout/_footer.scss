@@ -1,0 +1,18 @@
+// Footer Layout
+
+.footer-section {
+    padding:4%;
+    position: relative;
+    padding-bottom: 5%;
+    h3, h4, input{
+        padding:1%
+    }
+}
+.footer_aside{
+    float: right;
+    h5{
+        transform: rotate(90deg);
+        transform-origin: right top 1;
+        padding: 50%;
+    }      
+}

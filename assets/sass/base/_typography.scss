@@ -1,0 +1,44 @@
+body{
+    font-family: $raleway;
+}
+.navigation_list{
+    font-weight: $bold; 
+    a{
+        color: $smoky-black !important;
+    }   
+}
+#navigation_logo{
+    font-family: $old-standard-tt;
+    font-size: $xx-large;
+}
+.hero_section{
+    h5{
+    font-family: $old-standard-tt;
+    font-weight: $bold; 
+    font-size: $xxx-large;   
+    text-transform: uppercase;
+    }
+    p{
+        color: $granite-gray;
+    }
+}
+.footer{
+    color:$white;
+    h3, h4, h5{
+        font-family: $old-standard-tt;
+    }
+    h4,h5{
+        font-size: $small;
+    }
+    h3{
+        font-weight: $bold;
+        font-size: $medium;
+    }
+    h5{
+        color: $smoky-black;
+    }
+    input{
+font-size:$x-small ;
+    }
+}
+
